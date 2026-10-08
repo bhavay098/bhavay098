@@ -69,7 +69,6 @@ Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, productio
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="Skills Matrix" />
     <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="Skills Matrix" />
     <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Skills Matrix" />
@@ -91,7 +90,6 @@ Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, productio
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Skills Matrix" />
     <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Skills Matrix" />
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Skills Matrix" />
-  </a>
 </div>
 
 <!-- Animated Glowing Divider -->
