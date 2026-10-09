@@ -7,9 +7,7 @@
   </h1>
 
   <!-- Dynamic Typing Header (Responsive width: scales comfortably on both mobile & desktop) -->
-  <a href="https://github.com/bhavay098">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=500&height=45&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Systems+Architect;%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%A7%A9+Real-Time+Engines+%E2%80%A2+Socket.IO+%2B+Redis;%F0%9F%94%A7+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=500&height=45&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Systems+Architect;%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%A7%A9+Real-Time+Engines+%E2%80%A2+Socket.IO+%2B+Redis;%F0%9F%94%A7+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
 
   <!-- Quick Minimal Badges (Responsive inline wrapping across all devices) -->
   <p align="center">
@@ -40,7 +38,7 @@
 
 ## 💫 About Me
 
-Hey! I'm **Bhavay Nagpal** — a full-stack developer building scalable, production-ready web applications end to end. From backend systems to user-facing interfaces, I'm focused on writing clean, maintainable architecture that scales well as products grow. I work across the stack with **Next.js**, **React**, **Node.js**, **PostgreSQL**, and **MongoDB**.
+Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, production-ready web applications end to end. From backend systems to user-facing interfaces, I'm focused on writing clean, maintainable architecture that scales well as products grow. I work across the stack with **Next.js**, **React**, **Node.js**, **PostgreSQL**, and **MongoDB**.
 
 <!-- Responsive Centered Illustration (Replaced rigid table to avoid mobile text squishing) -->
 <p align="center">
@@ -90,11 +88,9 @@ Hey! I'm **Bhavay Nagpal** — a full-stack developer building scalable, product
   </a>
 </p>
 
-<!-- Activity Graph (fluid 100% width) -->
+<!-- Animated Contribution Snake (Tokyo Night Cyan + GitHub Dark Green) -->
 <p align="center">
-  <a href="https://github.com/bhavay098" target="_blank">
-    <img src="https://raw.githubusercontent.com/bhavay098/bhavay098/output/activity-graph.svg" width="100%" alt="Activity Graph" />
-  </a>
+  <img src="https://raw.githubusercontent.com/bhavay098/bhavay098/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 <!-- Animated Glowing Divider -->
