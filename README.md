@@ -88,7 +88,7 @@ Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, productio
   </a>
 </p>
 
-<!-- Animated Contribution Snake (Tokyo Night Cyan + GitHub Dark Green) -->
+<!-- Animated Contribution Snake (Tokyo Night Purple + GitHub Dark Green) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhavay098/bhavay098/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </p>
