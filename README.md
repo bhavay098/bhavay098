@@ -11,7 +11,7 @@
 
   <!-- Quick Minimal Badges (Responsive inline wrapping across all devices) -->
   <p align="center">
-    <a href="https://github.com/bhavay098/bhavay098/blob/main/assets/bhavay_resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+    <a href="./assets/bhavay_resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
     <a href="https://www.linkedin.com/in/bhavaynagpal1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/BhavayNagpal1" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="mailto:bhavaynagpal4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -56,10 +56,13 @@ Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, productio
 
 ## 🛠️ Languages & Tools
 
-<!-- Responsive 7-per-line grid: perfectly fits mobile (<390px) and forms a clean 3x7 grid on desktop -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,tailwind,html,css,redux,nodejs,express,postgres,mongodb,redis,docker,aws,gcp,git,github,vscode,vercel&perline=7&theme=dark" alt="Skills Matrix" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/skills-light.svg">
+    <img src="./assets/skills-dark.svg" width="100%" alt="Languages and Tools" />
+  </picture>
+</p>
 
 <!-- Animated Glowing Divider -->
 <p align="center">
@@ -88,7 +91,7 @@ Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, productio
   </a>
 </p>
 
-<!-- Animated Contribution Snake (Tokyo Night Palette) -->
+<!-- Animated Contribution Snake (Tokyo Night Purple Snake) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhavay098/bhavay098/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </p>
