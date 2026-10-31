@@ -11,10 +11,10 @@
 
   <!-- Quick Minimal Badges (Responsive inline wrapping across all devices) -->
   <p align="center">
+    <a href="https://github.com/bhavay098/bhavay098/blob/main/assets/bhavay_resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
     <a href="https://www.linkedin.com/in/bhavaynagpal1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/BhavayNagpal1" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="mailto:bhavaynagpal4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://github.com/bhavay098" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://hashnode.com/@Bhavay25" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
   </p>
 
@@ -75,10 +75,10 @@ Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, productio
 <!-- Responsive Stats: wrap gracefully onto separate lines on mobile, side-by-side on wide screens -->
 <p align="center">
   <a href="https://github.com/bhavay098" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=bhavay098&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=bhavay098&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/bhavay098" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavay098&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavay098&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ Hey! I'm **Bhavay Nagpal** - a full-stack developer building scalable, productio
   </a>
 </p>
 
-<!-- Animated Contribution Snake (Tokyo Night Purple + GitHub Dark Green) -->
+<!-- Animated Contribution Snake (Tokyo Night Palette) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhavay098/bhavay098/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </p>
